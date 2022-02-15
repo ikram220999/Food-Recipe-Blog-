@@ -1,0 +1,21 @@
+*{
+  font-family: Helvetica;
+  margin: 0;
+  padding: 0;
+
+}
+
+
+.fas {
+  padding: 0px;
+  text-align: center;
+  text-decoration: none;
+  color: white;
+}
+
+.fol{
+   color: white;
+   font-size: 14px;
+   font-weight: 550;
+}
+
